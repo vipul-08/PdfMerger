@@ -1,0 +1,15 @@
+{
+  "name": "pdf_merger",
+  "version": "1.0.0",
+  "description": "Used to Merge Different PDFs into one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vipul-08",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "pdf-lib": "^1.16.0"
+  }
+}
